@@ -66,7 +66,6 @@ git merge feature/complex-change-1
 - Use a **merge tool** (VSCode, KDiff3, etc.) or manual editing
 - Don’t blindly pick “mine” or “theirs”—understand the change
 - Preserve useful logic from both branches if possible
-- Test (where applicable), even if logic isn't real
 - Use clear commit messages when finishing merges
 
 ```bash
