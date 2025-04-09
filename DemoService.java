@@ -1,0 +1,1 @@
+public class DemoService {\n\n    public String getName() {\n        return "BaseName";\n    }\n\n    public int calculateScore(int a, int b) {\n        return a + b;\n    }\n\n    public boolean isActive() {\n        return true;\n    }\n\n}
